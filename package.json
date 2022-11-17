@@ -3,6 +3,11 @@
 	"publisher": "mathstylish",
   "displayName": "Tokyo Dark Plus",
   "description": "A theme based on Tokyo Night and Dark Plus",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathstylish/TokyoDarkPlus"
+  },
+  "homepage": "https://github.com/mathstylish/TokyoDarkPlus/README.md",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
