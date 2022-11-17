@@ -1,13 +1,13 @@
 {
-  "name": "tokyo-dark-plus",
+  "name": "tokyo-dark-themes",
 	"publisher": "mathstylish",
-  "displayName": "Tokyo Dark Plus",
-  "description": "A theme based on Tokyo Night and Dark Plus",
+  "displayName": "Tokyo Dark Themes",
+  "description": "Dark themes based on Tokyo Night",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mathstylish/TokyoDarkPlus"
+    "url": "https://github.com/mathstylish/TokyoDarkThemes"
   },
-  "homepage": "https://github.com/mathstylish/TokyoDarkPlus/README.md",
+  "homepage": "https://github.com/mathstylish/TokyoDarkThemes/README.md",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
@@ -21,6 +21,11 @@
         "label": "Tokyo Dark Plus",
         "uiTheme": "vs-dark",
         "path": "./themes/Tokyo Dark Plus-color-theme.json"
+      },
+      {
+        "label": "Tokyo Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Dracula-color-theme.json"
       }
     ]
   }
