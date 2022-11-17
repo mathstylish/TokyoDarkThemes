@@ -1,0 +1,22 @@
+{
+  "name": "tokyo-dark-plus",
+	"publisher": "mathstylish",
+  "displayName": "Tokyo Dark Plus",
+  "description": "A theme based on Tokyo Night and Dark Plus",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Dark Plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Dark Plus-color-theme.json"
+      }
+    ]
+  }
+}
